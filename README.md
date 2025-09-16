@@ -7,7 +7,7 @@
 
 | Home Screen                                             | Note View                                               |
 | ------------------------------------------------------- | ------------------------------------------------------- |
-| ![Home Screenshot](https://via.placeholder.com/300x200) | ![Note Screenshot](https://via.placeholder.com/300x200) |
+| ![Home Screenshot](assets/HomePage.png) | ![Note Screenshot](assets/Notes.png) |
 
 ---
 
@@ -18,7 +18,6 @@
 | Add Notes         | Quickly create new notes with titles and content |
 | Edit Notes        | Update existing notes easily                     |
 | Delete Notes      | Remove notes you no longer need                  |
-| Search Notes      | Find your notes fast with the search bar         |
 | Responsive Design | Works smoothly on mobile and desktop             |
 | Dark Mode         | Optional dark theme for comfortable reading      |
 
